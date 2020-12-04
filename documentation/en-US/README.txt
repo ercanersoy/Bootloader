@@ -1,4 +1,4 @@
-Ercan Ersoy's Bootloader 0.1
+Ercan Ersoy's Bootloader 0.2
 
   All rights belong to Ercan Ersoy. This software is licensed by GNU LGPL v3.
   Ercan Ersoy's bootloader is being developed for microcontrollers. Program
@@ -64,4 +64,8 @@ Usage:
 
 Verison History:
 
-  - 0.1 (08-08-2019): Initial version
+  * 0.2 (12-04-2020): Add .gitignore and README.md files.
+                      The license changed to MIT License.
+                      Updated README.txt files.
+
+  * 0.1 (08-08-2019): Initial version

@@ -1,4 +1,4 @@
-Ercan Ersoy'un Önyükleyicisi 0.1
+Ercan Ersoy'un Önyükleyicisi 0.2
 
   Bütün hakları Ercan Ersoy'a aittir. Bu yazılım, GNU LGPL v3 ile
   lisanslanmıştır.
@@ -68,4 +68,8 @@ Kullanım:
 
 Sürüm Geçmişi:
 
-  - 0.1 (08.08.2019): İlk sürüm
+  * 0.2 (04.12.2020): .gitignore dosyası ve README.md dosyaları eklendi.
+                      Lisans, MIT Lisansı olarak değiştirildi.
+                      README.txt dosyaları güncellendi.
+
+  * 0.1 (08.08.2019): İlk sürüm

@@ -18,7 +18,7 @@
 #include "configurations.h"
 #include "strings.h"
 
-#define VERSION "0.1"  // Version information
+#define VERSION "0.2"  // Version information
 
 void starting_message(void);  // Starting message prortotype
 
